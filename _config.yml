@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Sundayliu's Blog
-tagline: Site Tagline
+title : sundayliu
+tagline: focus on computer tech
 author :
   name : sundayliu
   email : sundayliu@aliyun.com
@@ -82,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : sundayliusblog
     livefyre :
       site_id : 123
     intensedebate :
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-50193653-1'
     getclicky :
       site_id : 
     mixpanel :
